@@ -1,0 +1,2 @@
+wesnoth-resources
+=================
