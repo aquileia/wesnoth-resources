@@ -1,0 +1,91 @@
+﻿The Rise of Wesnoth - Intro sequence
+
+General setting: since the campaign takes place in the early history of the kingdom, the visual context should be the early Middle-Age, with a dominance of chainmail/scale armour over plate. At this time the Sceptre of fire does not exist and should therefore be absent from Loyalist heraldry
+
+Intro 1-4
+    A growing stain on the map of the Green Isle shows the invasion and subsequent retreat of the Wesfolk.
+Intro 5
+    A ship in the open sea is caught in a storm
+Intro 6
+    A ship captained by the crown prince reaches an unknown coastline.
+Intro 7
+    The crown prince is on his deathbed. His family and the royal court are gathered around him; The eye of suspiscion is cast on his younger brother.
+Intro 7 - alternative
+    royal funeral wake for the crown prince in a chapel, candles, shadows, the younger prince standing over him with other people in the background looking on
+Intro 8
+    The younger brother leads a large army to wage war on the Wesfolk
+Intro 9
+    Waist-up portrait : king Haldric the First
+Intro 10
+    statue of Haldric in the same pose as in 9; at it's side is the banner of the early wesnothian kingdom, with the Ruby of Fire as its emblem. Campaign logo.
+
+
+
+
+The Rise of Wesnoth - Scenarios
+
+01-A Summer of Storms: 
+    a hot summer day in a vally. Regular soldiers are marching towards an outpost overrun by Wesfolk raiders. A storm is building up in the distance.
+02-The Fall:
+    trees have their autumn leaves; the outpost from before is now occupied by soldiers. Sentries signal the approach of orcs, farmlands are burning in the valley.
+02.2-Alternate:
+    in a mountain pass, Haldric and soldiers are caught between Wesfolk raiders and orc pursuers.
+03-A Harrowing Escape (not shown above):
+    a column of refuges is progressing through the moutains. Orcs are on their trail
+04.1-The death of Eldaric:
+    outnumbered by orcs, king Eldaric and his guards make their last stand. Around them, the homeland is in flames.
+04.2-Southern kingdoms:
+    refuges contemplate the landscape before them. On the left, the midlands. On the right, swamps.
+05-The Oldwood:
+    in the heart of the forest, Haldric & co reach a clearing where they meet woses.
+06-Temple of the Deep:
+    a creepy corridor or hall of a long-abandonned underground temple. The place is very old, its masonry crude.
+07-Return to Oldwood:
+    Sitting in his forest camp, Haldric is lost in thought, the Ruby of Fire in his hands.
+08.1-Clearwater Port:
+    a small seaside port covered in snow
+08.2-Alternate:
+    a ship loaded with refuges takes sea in the midst of a snowstorm, orcish projectiles rain death.
+09-Fallen Lich Point:
+    facing the sea, a petrified lich holds a large codex. Next to it, a monolith bears strange inscriptions.
+10-Southbay Sewers:
+    Haldric & co make their progress in the mucky waters of the sewers.
+
+11 - South Bay in Winter:
+    The throne room of Southbay castle; outdoors, winter reigns. Haldric and the lady Jessene have obtained an audience with king Addroran (who may also appear in intro 7
+12.1 - A Final Spring:
+    wide view of Southbay in early Spring. Orc legions are approaching the city.
+12.2 - Alternate:
+    Southbay is in flames. Battle against the invading orcs has reached the streets, civilians flee.
+13.1 - Peoples in Decline:
+    a fleet of varied ships leaves Southbay, the shores of the Green Isle behind them.
+13.2 - Alternate:
+    the fleet is anchored near a volcanic island. Hostile drakes are flying towards the ships.
+14 - A Rough Landing: 
+    the fleet has reached another island. Nagas watch the refuges as they set foot ashore.
+15 - A New Land: 
+    it's early Summer. The fleet has reached its destination, the great eastern continent.
+16 - The Kalian: 
+    landscape. The homeland of the elves, a great city at the heart of the forest.
+17.1 - The dragon: 
+    a dragon's lair.
+17.2 - Lizard Beach: 
+    remains of shipwrecks are scattered accross a shore; saurians scavenge whatever metal scraps they can.
+17.3 - Troll Hole: 
+    a cavern where trolls dwell.
+17.4 - Cursed Isle: 
+    ghosts, ghouls and vampires haunt these dark shores.
+18 - A Spy in the Woods: 
+    the lady Jessene spies on a conspiracy between the elven lords.
+19 - The Vanguard: 
+    orcs set foot ashore from a grounded ship, having sailed from the Green Isle.
+20 - The Return of the Fleet: 
+    a great battle between orcs and humans.
+21 - The plan: 
+    Haldric, Jessene and Aethyr are in the midst of a heated argument over a treaty
+22 - The Rise of Wesnoth: 
+    lich lord Jevyan vs Haldric & co
+23 - Epilogue: 
+    ending screen of the campaign: king Haldric and Queen Jessene stand with the emblem of the newly-formed kingdom of Wesnoth at their back, in a pose that echoes the statue of Intro 10
+23 - alternative
+    less harmonic pose, "Jessene's clothing would likely be in a somewhat unwesnothian style due to her Wesfolk background and because she'd refuse to look very noblewomanly even as a queen. She'd probably even keep carrying her knife."
