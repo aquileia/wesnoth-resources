@@ -1,0 +1,28 @@
+zerovirus:
+* units/UtBS (desert elves, naga hunter, Eloh)
+* Dionli
+
+sleepwalker:
+* Jevyan, Mal-Ravanal
+* nightblade
+* khalifate
+* most loyalists
+
+Jetrel:
+* elves
+* lieutenant
+
+LordBob:
+* story_art (hammer study, UtBS illuminations, storyboards)
+
+rhyging5:
+* troll
+
+artisticdude:
+* troll variation, spearman
+
+Darker_Dreams:
+* inn terrain
+
+aquileia:
+* mockup1
