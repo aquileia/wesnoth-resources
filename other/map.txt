@@ -1,0 +1,5 @@
+Green = forest
+Grey = hills
+Black = mountains
+Blue = swamp
+Yellow = desert (whether hot or cold)
