@@ -11,6 +11,7 @@ sleepwalker:
 Jetrel:
 * elves
 * lieutenant
+* poacher & trapper
 
 LordBob:
 * story_art (hammer study, UtBS illuminations, storyboards)
@@ -29,3 +30,6 @@ Pixelmind:
 
 zookeeper:
 * great continent map
+
+bumbadadabum:
+* masked dwarves
