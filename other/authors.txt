@@ -4,7 +4,6 @@ zerovirus:
 
 sleepwalker:
 * Jevyan, Mal-Ravanal
-* nightblade
 * khalifate
 * most loyalists
 
