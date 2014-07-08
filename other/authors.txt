@@ -32,3 +32,6 @@ zookeeper:
 
 bumbadadabum:
 * masked dwarves
+
+Sylar:
+* poacher
