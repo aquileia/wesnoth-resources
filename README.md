@@ -1,7 +1,7 @@
 wesnoth-resources
 =================
 
-This repository tries to catch art from the [Wesnoth forums](www.forums.wesnoth.org) that could possibly replace existing assets or otherwise help [Wesnoth](www.github.com/wesnoth/wesnoth).
+This repository tries to catch art from the [Wesnoth forums](http://www.forums.wesnoth.org) that could possibly replace existing assets or otherwise help [Wesnoth](https://www.github.com/wesnoth/wesnoth).
 
 Most of the artwork was posted for the very purpose it is here, and the author was aware that using it for Wesnoth requires GPL licensing.
 However, it is quite possible the author will only accept this the moment they are included - meaning they aren't GPL before and can't be used for other projects.
