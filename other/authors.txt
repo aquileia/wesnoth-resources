@@ -1,5 +1,5 @@
 zerovirus:
-* units/UtBS (desert elves, naga hunter, Eloh)
+* units/UtBS (desert elves, naga hunter)
 * Dionli
 
 sleepwalker:
