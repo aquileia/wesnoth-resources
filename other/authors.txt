@@ -1,6 +1,5 @@
 zerovirus:
 * units/UtBS (desert elves, naga hunter)
-* Dionli
 
 sleepwalker:
 * Jevyan, Mal-Ravanal
