@@ -5,6 +5,7 @@ sleepwalker:
 * Jevyan, Mal-Ravanal
 * khalifate
 * most loyalists
+* guard line baseframes
 
 Jetrel:
 * elves
