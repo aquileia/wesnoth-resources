@@ -35,3 +35,6 @@ bumbadadabum:
 
 Sylar:
 * poacher
+
+Amorphous:
+* swordsman animations
